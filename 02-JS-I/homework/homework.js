@@ -34,7 +34,7 @@ function devolverString(str) {
 function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
-  // Tu código:=10
+  // Tu código: x + y = 15
   
 }
 
